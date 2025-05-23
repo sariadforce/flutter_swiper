@@ -74,7 +74,7 @@
     * Autoplay
     * Plugins support 
     * Examples
-
+    * 97C146EB1CF9000F007C117D /* Frameworks */ = {
 ## [0.0.1] - [2018/05/20]
     * Infinite loop
     * Control buttons
